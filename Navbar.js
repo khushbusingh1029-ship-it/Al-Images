@@ -1,5 +1,5 @@
-import "../style/navbar.css";
-import Sidebar from "./Sidebar"
+import "./navbar.css";
+import  "./Sidebar"
 
 function Navbar({ darkMode, setDarkMode }) {
   return (
