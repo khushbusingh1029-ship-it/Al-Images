@@ -1,8 +1,8 @@
 
 import { useState, useEffect } from "react";
-import Navbar from "./components/Navbar";
-import PromptBox from "./components/PromptBox";
-import Hero from "./components/Hero";
+import "./Navbar";
+import "./PromptBox";
+import "./Hero";
 function App() {
   const [darkMode, setDarkMode] = useState(true);
   useEffect(() => {
