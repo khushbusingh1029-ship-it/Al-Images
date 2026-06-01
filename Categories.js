@@ -1,4 +1,4 @@
-import "../style/categories.css";
+import "./categories.css";
 
 function Categories({ setPrompt }) {
 
