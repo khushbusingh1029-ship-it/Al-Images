@@ -1,4 +1,4 @@
-import "../style/history.css";
+import "./history.css";
 
 function History({ history }) {
 
