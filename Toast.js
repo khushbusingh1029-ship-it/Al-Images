@@ -1,4 +1,4 @@
-import "../style/toast.css";
+import "./toast.css";
 
 function Toast({ message }) {
   return (
