@@ -1,4 +1,4 @@
-import "../style/search.css";
+import "./search.css";
 
 function SearchBar({ search, setSearch }) {
   return (
