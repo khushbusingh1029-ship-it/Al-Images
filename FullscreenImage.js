@@ -1,5 +1,5 @@
 
-import "../style/fullscreen.css";
+import "./fullscreen.css";
 
 function FullscreenImage({ image, setPreview }) {
   return (
