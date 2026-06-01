@@ -1,4 +1,4 @@
-import "../style/imagecard.css";
+import "./imagecard.css";
 
 function ImageCard({ image }) {
 
