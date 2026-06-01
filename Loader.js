@@ -1,5 +1,5 @@
 
-import "../style/loader.css";
+import "./loader.css";
 
 function Loader() {
   return (
