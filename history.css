@@ -1,0 +1,29 @@
+.history{
+
+  width:300px;
+
+  background:#1e293b;
+
+  padding:20px;
+
+  border-radius:12px;
+
+  height:fit-content;
+}
+
+.history h3{
+  margin-bottom:20px;
+}
+
+.history p{
+
+  background:#334155;
+
+  padding:10px;
+
+  border-radius:8px;
+
+  margin-bottom:10px;
+
+  font-size:14px;
+}

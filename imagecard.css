@@ -1,0 +1,24 @@
+.image-card{
+
+  margin-top:30px;
+
+  background:#1e293b;
+
+  padding:20px;
+
+  border-radius:16px;
+
+  text-align:center;
+}
+
+.image-card img{
+
+  width:100%;
+
+  border-radius:12px;
+}
+
+.image-card button{
+
+  margin-top:20px;
+}

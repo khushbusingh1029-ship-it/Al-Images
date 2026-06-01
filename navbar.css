@@ -1,0 +1,36 @@
+.navbar{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+
+  padding:20px 40px;
+
+  background:#1e293b;
+}
+
+.navbar h1{
+  color:#8b5cf6;
+}
+
+.theme-btn{
+  padding:10px 20px;
+  border:none;
+  background:#8b5cf6;
+  color:white;
+  border-radius:8px;
+  cursor:pointer;
+}
+
+.dark{
+  background:#0f172a;
+  color:white;
+}
+
+.light{
+  background:#f1f5f9;
+  color:black;
+}
+
+.app{
+  min-height:100vh;
+}

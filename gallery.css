@@ -1,0 +1,41 @@
+
+
+.gallery{
+
+  margin-top:40px;
+}
+
+.gallery h2{
+
+  margin-bottom:20px;
+}
+
+.gallery-grid{
+
+  columns:3;
+  gap:20px;
+}
+
+.gallery-grid img{
+
+  width:100%;
+
+  margin-bottom:20px;
+
+  border-radius:16px;
+
+  cursor:pointer;
+
+  transition:0.4s;
+
+  box-shadow:
+  0 0 10px rgba(139,92,246,0.2);
+}
+
+.gallery-grid img:hover{
+
+  transform:scale(1.03);
+
+  box-shadow:
+  0 0 25px rgba(139,92,246,0.7);
+}
