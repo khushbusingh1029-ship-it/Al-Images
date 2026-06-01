@@ -1,18 +1,18 @@
 
 import { useState } from "react";
 import { motion } from "framer-motion";
-import ImageCard from "./ImageCard";
-import Loader from "./Loader";
-import History from "./History";
-import RandomPrompt from "./RandomPrompt";
-import Categories from "./Categories";
-import Gallery from "./Gallery";
-import FavoriteButton from "./FavoriteButton";
-import Toast from "./Toast";
-import SearchBar from "./SearchBar";
-import FullscreenImage from "./FullscreenImage";
-import PromptEnhancer from "./PromptEnhancer";
-import "../style/prompt.css";
+import "./ImageCard";
+import "./Loader";
+import "./History";
+import "./RandomPrompt";
+import"./Categories";
+import "./Gallery";
+import "./FavoriteButton";
+import "./Toast";
+import  "./SearchBar";
+import "./FullscreenImage";
+import "./PromptEnhancer";
+import "./prompt.css";
 
 function PromptBox() {
 
