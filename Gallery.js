@@ -1,4 +1,4 @@
-import "../style/gallery.css";
+import "./gallery.css";
 
 function Gallery({
   favorites=[],
