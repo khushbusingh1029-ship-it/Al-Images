@@ -1,4 +1,4 @@
- import "../style/sidebar.css";
+ import "./sidebar.css";
 import React, { useState } from "react";
 import {
     FaTimes,
